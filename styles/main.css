@@ -4,9 +4,6 @@ body{
   font-size: 1.2em;
 }
 
-.navbar{
-  background-color: #e6e5f4;
-}
 
 .info{
   min-height: 92vh;
@@ -33,6 +30,8 @@ body{
 
 .drama{
   font-size: 120%;
+  padding-left: 7%;
+  padding-right: 7%;
 }
 .blanco{
   min-height: 20vh;
@@ -65,4 +64,42 @@ body{
   width: 100%;
   height: 95%;
   object-fit: cover;
+}
+
+.academico, .extra{
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+.academico > p {
+  margin-top: 1rem;
+}
+
+.alineador{
+  margin-top: 15vh;
+}
+
+.footer{
+  background-color: #343a40;
+  color: white;
+}
+.footer .blanco{
+  min-height: 10vh;
+  margin-bottom: 0%;
+}
+
+.linkPagina{
+  color: white;
+  font-size: 200%;
+  margin-right: 2%;
+}
+
+.back{
+  position: absolute;
+  top:2%;
+  left:2%;
+  z-index: 9;
 }
