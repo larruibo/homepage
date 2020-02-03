@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2em;
+}
+
+.navbar{
+  background-color: #e6e5f4;
+}
+
+.foto, .contenido, .mapa {
+  padding: 15px;
+  text-align: center;
+  margin: auto;
+}
+
+.foto img{
+  border-radius: 50%;
+  max-width: 280px;
+  max-height: 280px;
+  vertical-align: middle;
+  object-fit:cover;
+}
+
+.mapa iframe{
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.drama{
+  font-size: 150%;
+}
+.blanco{
+  min-height: 33vh;
+}
+
+.pag iframe{
+  width: 100%;
+  height: 80vh;
+}
+
+.importante{
+  background-color: #6c757d;
+  color: white;
+  height: 100vh;
+}
+
+.oportunidad > div:first-child{
+  padding-top: 5%;
+}
