@@ -8,6 +8,10 @@ body{
   background-color: #e6e5f4;
 }
 
+.info{
+  min-height: 92vh;
+}
+
 .foto, .contenido, .mapa {
   padding: 15px;
   text-align: center;
@@ -28,10 +32,10 @@ body{
 }
 
 .drama{
-  font-size: 150%;
+  font-size: 120%;
 }
 .blanco{
-  min-height: 33vh;
+  min-height: 20vh;
 }
 
 .pag iframe{
@@ -42,9 +46,23 @@ body{
 .importante{
   background-color: #6c757d;
   color: white;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .oportunidad > div:first-child{
   padding-top: 5%;
+}
+
+.imagenes > div:first-child{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.imagenes > div{
+  max-height: 40vh;
+  text-align: center;
+}
+.imagenes > div > img{
+  width: 100%;
+  height: 95%;
+  object-fit: cover;
 }
