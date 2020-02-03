@@ -103,3 +103,7 @@ body{
   left:2%;
   z-index: 9;
 }
+
+.index{
+  z-index: 9;
+}
