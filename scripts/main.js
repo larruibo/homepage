@@ -1,3 +1,8 @@
+/*antoine noreau: Esta manera de cambiar el nombre de la imagen me parece bien, es inteligente. El codigo JS functiona bien 
+en la animacion de imagenes de estadios. Podria agregar flechas (Bootstrap tiene un paquete facil a usar) para que el usuario pueda cambiar 
+mas facilmente. Me gusta!
+*/
+
 let imagenSP = document.querySelector('#imagenSP');
 imagenSP.onclick = function(){
   let source = imagenSP.getAttribute('src');
