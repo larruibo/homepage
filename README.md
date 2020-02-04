@@ -24,3 +24,8 @@ Un navegador con acceso a Internet.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+### Comentario final Valerie Parra Cortés: 
+Quería hacer un comentario final sobre tu página,
+En general hiciste un buen trabajo, hubo cosas que me gustaron como el playlist de música, y en genera es muy tu, uno llega a conocerte por esta página Sin embargo, piensa que depronto en el mundo laboral tanta expontaneada no está tan bien, (pero insisto a mi me gusto) 
+Finalmente, te felicito por tu trabajo.
