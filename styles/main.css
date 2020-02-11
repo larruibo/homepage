@@ -6,7 +6,8 @@ body{
 
 
 .info{
-  min-height: 92vh;
+  min-height: 90vh;
+  margin-top: 10vh;
 }
 
 .foto, .contenido, .mapa {
@@ -58,7 +59,6 @@ body{
 }
 .imagenes > div{
   max-height: 40vh;
-  text-align: center;
 }
 .imagenes > div > img{
   width: 100%;
@@ -106,4 +106,8 @@ body{
 
 .index{
   z-index: 9;
+}
+
+.oportunidad, .imagenes{
+  padding-top: 7vh;
 }
