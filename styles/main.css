@@ -9,7 +9,7 @@ body{
 
 .info{
   min-height: 90vh;
-  margin-top: 10vh;
+  padding-top: 10vh;
 }
 
 .foto, .contenido, .mapa {
