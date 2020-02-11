@@ -1,3 +1,5 @@
+"use strict";
+
 let imagenSP = document.querySelector('#imagenSP');
 imagenSP.onclick = function(){
   let source = imagenSP.getAttribute('src');
