@@ -3,7 +3,9 @@ body{
   font-family: 'Ubuntu', sans-serif;
   font-size: 1.2em;
 }
-
+ p {
+   text-align: justify;
+ }
 
 .info{
   min-height: 90vh;
