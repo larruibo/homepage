@@ -24,3 +24,5 @@ Un navegador con acceso a Internet.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+Creo que mis pull request no se están guardando entonces vuelvo a dejarte el comentario por si acaso: primero, recuerda que el readme debe tener un pantallazo de la aplicación funcionando, segundo, también debes colocar las dependencias (Ej: JQuery) y explicar cómo se corre (Ej: "Escribe en console <http-server>"). Por último, un consejo personal que te doy es que dejes el readme en inglés o en español/inglés. El inglés es universal y con tu código puedes ayudar a otras personas a aprender de desarrollo web. 
